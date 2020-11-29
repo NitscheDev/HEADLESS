@@ -4,5 +4,5 @@
 
 #### Author: NitscheDev
 ```bash
-git clone https://github.com/NitscheDev/HEADLESS.git
+git clone https://github.com/NitscheDev/NODE_BOILERPLATE.git
 ```
